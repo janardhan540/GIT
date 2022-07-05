@@ -1,7 +1,0 @@
-s this is first file created today
-
-For Testing git 
-
-revisioning 
-
-:
