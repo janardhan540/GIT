@@ -7,11 +7,4 @@ revisioning
 
 Hello world < this is for Second Commit
 :
-
-
-git Stash  comand test 
-
-
-Hello From New Branch
-
-hello 
+feture branch changes 
